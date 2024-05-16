@@ -1,0 +1,11 @@
+Model Information:
+* title:	FPS Arms with Advanced Rig
+* source:	https://sketchfab.com/3d-models/fps-arms-with-advanced-rig-81706ab4fce644c69fa486de2c6e4953
+* author:	aidanp (https://sketchfab.com/bionic_leaf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FPS Arms with Advanced Rig" (https://sketchfab.com/3d-models/fps-arms-with-advanced-rig-81706ab4fce644c69fa486de2c6e4953) by aidanp (https://sketchfab.com/bionic_leaf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
